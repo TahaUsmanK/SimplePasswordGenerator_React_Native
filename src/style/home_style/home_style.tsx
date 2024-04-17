@@ -14,6 +14,7 @@ const HomeStyle = StyleSheet.create({
     alignItems: 'center',
     flexDirection: 'row',
     justifyContent: 'center',
+    flexWrap: 'wrap',
   },
   text: {
     color: 'blue',
